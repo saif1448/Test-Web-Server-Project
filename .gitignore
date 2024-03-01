@@ -1,0 +1,5 @@
+#data/*.txt
+build/
+.idea
+.gradle/
+gradle/
